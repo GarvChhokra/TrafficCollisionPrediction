@@ -8,7 +8,7 @@ This project involves building a supervised machine learning model to predict th
   - Predict whether an accident is fatal or non-fatal.
 
 - **Data Source:**
-  - Live dataset available from the Toroo police website.
+  - Live dataset available from the Toroto police website.
 
 ## Workflow
 
